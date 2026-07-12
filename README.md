@@ -10,9 +10,7 @@ Python-first. I like things that *look* good and *actually* work.
 ### 🚀 What I'm building
 
 - **[ReelPull](https://reelpull.in)** — a fast, clean Instagram reel & video downloader
-- **[dot.py](https://github.com/sonu9699/Dotpy)** — my ML/AI portfolio + explainer video
 - **[MultiHopper Security Findings](https://github.com/sonu9699/multihopper-security-findings)** — authorized security research on a Solana agentic-transfer API
-- **[AuraMusic](https://github.com/sonu9699/AuraMusic)** — a minimal Android music player (Kotlin)
 
 ---
 
