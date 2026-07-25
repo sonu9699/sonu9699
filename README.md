@@ -27,7 +27,7 @@ Shipping in Web3, hunting bounties, and learning something new every day.
 
 ### 📬 Say hi
 
-[![X / Twitter](https://img.shields.io/badge/X-@sonu__eth__sol-000000?style=flat&logo=x&logoColor=white)](https://x.com/sonu_eth_sol)
+[![X / Twitter](https://img.shields.io/badge/X-@sonu__eth__sol-000000?style=flat&logo=x&logoColor=white)]([https://x.com/sonu_eth_sol](https://x.com/Dotpy69))
 
 <!-- optional live stats — clean, no clutter -->
 <sub>
